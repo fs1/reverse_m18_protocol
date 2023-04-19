@@ -9,4 +9,4 @@ Document number *TIY###.pdf* can be modified to get information on other product
 - [Milwaukee Specific Search](https://patents.google.com/?q=battery+charger&assignee=Milwaukee+Electric+Tool+Corp,Milwaukee+Electric+Tool+Corp.%2c+Brookfield&language=ENGLISH&scholar)
 
 ## Milwaukee Firmware Hacking Example
-- [Hacking firmware where you least expect it: in your tools](https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1492175899.pdf)
+- [Hacking firmware where you least expect it: in your tools](summit_archive_1492175899.pdf)
